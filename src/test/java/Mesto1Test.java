@@ -3,7 +3,7 @@ import io.qameta.allure.Step;
 import io.restassured.RestAssured;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import static io.restassured.RestAssured.given;
 
